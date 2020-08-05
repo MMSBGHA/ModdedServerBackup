@@ -22,7 +22,7 @@ backup_interval()
 
 echo "Minecraft Server Autobackup to Github"
 printf "%0.s-" {1..35}
-echo
+printf "\n\n\n"
 
 # check for git setup
 echo "Checking for git setup..."
