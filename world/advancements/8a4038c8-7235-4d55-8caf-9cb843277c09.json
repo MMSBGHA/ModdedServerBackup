@@ -1,0 +1,259 @@
+{
+  "triumph:stage0/workblade": {
+    "criteria": {
+      "hasRock": "2020-08-03 23:18:43 -0400",
+      "completedParent": "2020-08-03 22:39:20 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/naturescompass": {
+    "criteria": {
+      "completedParent": "2020-08-03 22:34:28 -0400"
+    },
+    "done": false
+  },
+  "triumph:stage0/firstbreak": {
+    "criteria": {
+      "brokeLog16": "2020-08-03 22:31:25 -0400",
+      "brokeLog38": "2020-08-03 22:31:25 -0400",
+      "brokeLog17": "2020-08-03 22:31:25 -0400",
+      "brokeLog39": "2020-08-03 22:31:25 -0400",
+      "brokeLog18": "2020-08-03 22:31:25 -0400",
+      "brokeLog19": "2020-08-03 22:31:25 -0400",
+      "completedParent": "2020-08-03 22:31:25 -0400",
+      "brokeLog1": "2020-08-03 22:31:25 -0400",
+      "brokeLog2": "2020-08-03 22:31:25 -0400",
+      "brokeLog9": "2020-08-03 22:31:25 -0400",
+      "brokeLog30": "2020-08-03 22:31:25 -0400",
+      "brokeLog31": "2020-08-03 22:31:25 -0400",
+      "brokeLog7": "2020-08-03 22:31:25 -0400",
+      "brokeLog10": "2020-08-03 22:31:25 -0400",
+      "brokeLog32": "2020-08-03 22:31:25 -0400",
+      "brokeLog8": "2020-08-03 22:31:25 -0400",
+      "brokeLog11": "2020-08-03 22:31:25 -0400",
+      "brokeLog33": "2020-08-03 22:24:16 -0400",
+      "brokeLog5": "2020-08-03 22:31:25 -0400",
+      "brokeLog12": "2020-08-03 22:31:25 -0400",
+      "brokeLog34": "2020-08-03 22:24:16 -0400",
+      "brokeLog6": "2020-08-03 22:31:25 -0400",
+      "brokeLog13": "2020-08-03 22:31:25 -0400",
+      "brokeLog35": "2020-08-03 22:31:25 -0400",
+      "brokeLog3": "2020-08-03 22:31:25 -0400",
+      "brokeLog14": "2020-08-03 22:31:25 -0400",
+      "brokeLog36": "2020-08-03 22:31:25 -0400",
+      "brokeLog4": "2020-08-03 22:31:25 -0400",
+      "brokeLog15": "2020-08-03 22:31:25 -0400",
+      "brokeLog37": "2020-08-03 22:31:25 -0400",
+      "brokeLog27": "2020-08-03 22:31:25 -0400",
+      "brokeLog28": "2020-08-03 22:31:25 -0400",
+      "brokeLog29": "2020-08-03 22:31:25 -0400",
+      "brokeLog40": "2020-08-03 22:31:25 -0400",
+      "brokeLog20": "2020-08-03 22:31:25 -0400",
+      "brokeLog21": "2020-08-03 22:31:25 -0400",
+      "brokeLog22": "2020-08-03 22:31:25 -0400",
+      "brokeLog23": "2020-08-03 22:31:25 -0400",
+      "brokeLog25": "2020-08-03 22:31:25 -0400",
+      "brokeLog26": "2020-08-03 22:31:25 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/chestupgrade": {
+    "criteria": {
+      "completedParent": "2020-08-03 22:36:43 -0400"
+    },
+    "done": false
+  },
+  "triumph:stage0/fluidbladder": {
+    "criteria": {
+      "completedParent": "2020-08-03 22:34:28 -0400"
+    },
+    "done": false
+  },
+  "triumph:stage0/spear": {
+    "criteria": {
+      "hasRock": "2020-08-03 22:56:43 -0400",
+      "completedParent": "2020-08-03 22:35:30 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/farmland": {
+    "criteria": {
+      "completedParent": "2020-08-03 23:18:43 -0400"
+    },
+    "done": false
+  },
+  "triumph:stage0/woodhopper1": {
+    "criteria": {
+      "completedParent": "2020-08-03 22:36:43 -0400"
+    },
+    "done": false
+  },
+  "triumph:stage0/workstump": {
+    "criteria": {
+      "completedParent": "2020-08-03 22:34:08 -0400",
+      "crafted": "2020-08-03 22:34:28 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/lowgradecharcoal": {
+    "criteria": {
+      "hasRock": "2020-08-03 23:09:11 -0400",
+      "completedParent": "2020-08-03 23:00:14 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/firsttool": {
+    "criteria": {
+      "hasRock": "2020-08-03 22:31:25 -0400",
+      "completedParent": "2020-08-03 22:22:06 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/fish": {
+    "criteria": {
+      "killed_fish3": "2020-08-03 23:21:23 -0400",
+      "killed_fish2": "2020-08-03 23:21:23 -0400",
+      "killed_fish": "2020-08-03 23:21:23 -0400",
+      "killed_fish4": "2020-08-03 23:21:23 -0400",
+      "completedParent": "2020-08-03 22:56:43 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/handgrind": {
+    "criteria": {
+      "hasRock": "2020-08-03 23:23:08 -0400",
+      "completedParent": "2020-08-03 22:34:28 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/weaponize": {
+    "criteria": {
+      "hasRock": "2020-08-03 22:35:30 -0400",
+      "completedParent": "2020-08-03 22:31:25 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/firepit": {
+    "criteria": {
+      "hasRock": "2020-08-03 22:51:18 -0400",
+      "completedParent": "2020-08-03 22:51:18 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/fiber": {
+    "criteria": {
+      "hasRock": "2020-08-03 22:22:31 -0400",
+      "completedParent": "2020-08-03 22:22:06 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/stonetools": {
+    "criteria": {
+      "hasRock": "2020-08-03 22:40:33 -0400",
+      "completedParent": "2020-08-03 22:39:20 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/flintknapp": {
+    "criteria": {
+      "hasRock": "2020-08-03 22:29:55 -0400",
+      "completedParent": "2020-08-03 22:22:31 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/waterstrainer": {
+    "criteria": {
+      "completedParent": "2020-08-03 22:34:28 -0400"
+    },
+    "done": false
+  },
+  "triumph:stage0/grill": {
+    "criteria": {
+      "hasRock": "2020-08-03 23:16:17 -0400",
+      "completedParent": "2020-08-03 22:51:18 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/root": {
+    "criteria": {
+      "killedByEntity": "2020-08-03 22:22:31 -0400",
+      "enterDimension": "2020-08-03 22:22:31 -0400",
+      "killEntity": "2020-08-03 22:22:31 -0400",
+      "location": "2020-08-03 22:22:06 -0400",
+      "breakBlock": "2020-08-03 22:22:31 -0400",
+      "craftItem": "2020-08-03 22:22:31 -0400",
+      "inventoryChange": "2020-08-03 22:22:31 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/collectplank": {
+    "criteria": {
+      "completedParent": "2020-08-03 22:31:25 -0400",
+      "crafted": "2020-08-03 22:34:08 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/kiln": {
+    "criteria": {
+      "hasRock": "2020-08-03 23:00:14 -0400",
+      "completedParent": "2020-08-03 22:34:28 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/firstchest": {
+    "criteria": {
+      "hasRock": "2020-08-03 22:36:43 -0400",
+      "completedParent": "2020-08-03 22:34:28 -0400",
+      "hasRock2": "2020-08-03 22:36:43 -0400",
+      "hasRock4": "2020-08-03 22:36:43 -0400",
+      "hasRock3": "2020-08-03 22:36:43 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/saltflats": {
+    "criteria": {
+      "completedParent": "2020-08-03 23:16:17 -0400"
+    },
+    "done": false
+  },
+  "triumph:stage0/upgrade": {
+    "criteria": {
+      "hasRock": "2020-08-03 22:39:20 -0400",
+      "completedParent": "2020-08-03 22:31:25 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/fire": {
+    "criteria": {
+      "hasRock": "2020-08-03 22:51:18 -0400",
+      "completedParent": "2020-08-03 22:31:25 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/tomahawk": {
+    "criteria": {
+      "hasRock": "2020-08-03 23:50:03 -0400",
+      "completedParent": "2020-08-03 22:35:30 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/woodenbarrel": {
+    "criteria": {
+      "hasRock1": "2020-08-03 22:53:27 -0400"
+    },
+    "done": false
+  },
+  "triumph:stage0/mesh": {
+    "criteria": {
+      "hasRock": "2020-08-03 22:22:31 -0400",
+      "completedParent": "2020-08-03 22:22:31 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/atlas": {
+    "criteria": {
+      "completedParent": "2020-08-03 23:18:43 -0400"
+    },
+    "done": false
+  }
+}

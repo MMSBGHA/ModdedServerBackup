@@ -1,0 +1,56 @@
+[00:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[00:03:59] [Server thread/WARN] [net.minecraft.tileentity.TileEntity]: Skipping BlockEntity with id 
+[00:03:59] [Server thread/WARN] [net.minecraft.tileentity.TileEntity]: Skipping BlockEntity with id minecraft:immcraft_shelf
+[00:03:59] [Server thread/WARN] [net.minecraft.tileentity.TileEntity]: Skipping BlockEntity with id 
+[00:03:59] [Server thread/WARN] [net.minecraft.tileentity.TileEntity]: Skipping BlockEntity with id minecraft:immcraft_shelf
+[00:03:59] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.physicalDamageRate'
+[00:03:59] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.fireDamageRate'
+[00:03:59] [Server thread/WARN] [net.minecraft.tileentity.TileEntity]: Skipping BlockEntity with id 
+[00:03:59] [Server thread/WARN] [net.minecraft.tileentity.TileEntity]: Skipping BlockEntity with id minecraft:immcraft_shelf
+[00:03:59] [Server thread/WARN] [net.minecraft.tileentity.TileEntity]: Skipping BlockEntity with id 
+[00:03:59] [Server thread/WARN] [net.minecraft.tileentity.TileEntity]: Skipping BlockEntity with id minecraft:immcraft_shelf
+[00:03:59] [Server thread/WARN] [net.minecraft.tileentity.TileEntity]: Skipping BlockEntity with id 
+[00:03:59] [Server thread/WARN] [net.minecraft.tileentity.TileEntity]: Skipping BlockEntity with id minecraft:immcraft_shelf
+[00:03:59] [Server thread/WARN] [net.minecraft.tileentity.TileEntity]: Skipping BlockEntity with id 
+[00:03:59] [Server thread/WARN] [net.minecraft.tileentity.TileEntity]: Skipping BlockEntity with id minecraft:immcraft_shelf
+[00:04:07] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.physicalDamageRate'
+[00:04:07] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.fireDamageRate'
+[00:10:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Thesupacake lost connection: Disconnected
+[00:10:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Thesupacake left the game
+[00:12:23] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Time ran backwards! Did the system time change?
+[00:20:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Habiera123> ^
+[00:21:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Habiera123 lost connection: Disconnected
+[00:21:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Habiera123 left the game
+[00:23:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: VastInfiniteNet has made the advancement [advancements.stage0.fluidbladder.title]
+[00:23:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: VastInfiniteNet has made the advancement [advancements.stage0.saltflats.title]
+[00:29:35] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Starting Backup. The server may lag for a bit!
+[00:29:37] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:29:37] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (DIM2): All chunks are saved
+[00:29:38] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Server Backup done!
+[00:54:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: VastInfiniteNet has reached the goal [advancements.stage0.woodhopper1.title]
+[00:54:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: VastInfiniteNet has reached the goal [advancements.stage0.woodhopper2.title]
+[00:56:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: VastInfiniteNet has made the advancement [advancements.stage0.waterstrainer.title]
+[00:58:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: VastInfiniteNet has made the advancement [advancements.stage0.woodenbarrel.title]
+[00:59:35] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Starting Backup. The server may lag for a bit!
+[00:59:37] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:59:37] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (DIM2): All chunks are saved
+[00:59:38] [Aromabackup-Backup/INFO] [AromaBackup]: Deleted backup Backup--world--2020-08-03--22-29.zip.
+[00:59:38] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Server Backup done!
+[01:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[01:10:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: VastInfiniteNet lost connection: Disconnected
+[01:10:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: VastInfiniteNet left the game
+[01:29:35] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Starting Backup. The server may lag for a bit!
+[01:29:37] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:29:37] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (DIM2): All chunks are saved
+[01:29:38] [Aromabackup-Backup/INFO] [AromaBackup]: Deleted backup Backup--world--2020-08-03--22-59.zip.
+[01:29:38] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Server Backup done!
+[02:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[03:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[04:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[05:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[06:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[07:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[08:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[09:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[10:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[11:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
