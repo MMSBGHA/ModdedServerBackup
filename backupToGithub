@@ -43,6 +43,6 @@ do
 	# make new changes a commit and current time and date as commit message
 	git commit -m date
 	git push origin master
-	sleep backup_interval
+	sleep 300
 done
 echo "Backing up ended."
