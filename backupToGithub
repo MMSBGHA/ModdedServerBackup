@@ -34,7 +34,7 @@ else
 	git_setup	
 fi
 
-echo "Waiting to backup"
+echo "Waiting to backup..."
 while true
 do
 	echo "Backing up the server..."
@@ -43,6 +43,7 @@ do
 	# make new changes a commit and current time and date as commit message
 	git commit -m date
 	git push origin master
+	echo "Server backed up."
 	sleep 300
 done
 echo "Backing up ended."
