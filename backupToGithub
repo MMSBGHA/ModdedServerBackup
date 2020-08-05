@@ -45,7 +45,7 @@ do
 	# add any changes
 	git add *
 	# make new changes a commit and current time and date as commit message
-	git commit -m "`date`" > /dev/null 2>&1
+	git commit -m "`date`"
 	git push origin master > /dev/null 2>&1
 	echo "Server backed up."
 	sleep 300
