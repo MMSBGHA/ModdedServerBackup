@@ -26,7 +26,7 @@ printf "\n\n"
 
 # check for git setup
 echo "Checking for git setup..."
-if [ -eq $(git config user.name) "MMSBGHA" ]
+if [[ $(git config user.name) != "MMSBGHA" ]]
 then
 	echo "GIT REPO ALREADY SETUP"
 else
