@@ -1,0 +1,10 @@
+#!/bin/bash
+
+git_init()
+{
+	echo "Setting up git repository..."
+
+	echo "Initializing Repo..."
+	git init
+	git push https://github.com/MMSBGHA/ModdedServerBackup.git 	
+}

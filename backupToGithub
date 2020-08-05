@@ -1,9 +1,34 @@
 #!/bin/bash
 
-# git remote URL
-# git add
-# git commit
-# git push origin master
-# 
-#
-#
+
+# cases
+#1. just pull repo for first time
+
+
+git_setup()
+{
+	echo "Switching to MMSBGHA github for this repo..."
+	git config user.name "MMSBGHA"
+	git config user.email MMSBPMA@protonmail.com
+	git config credential.helper store
+	git push https://github.com/MMSBGHA/ModdedServerBackup.git
+	echo ""
+}
+
+echo "Minecraft Server Autobackup to Github"
+printf "%0.s-" {1..35}
+echo
+
+# check for git setup
+echo "Checking for git setup..."
+if [ -d ".git/" ]
+then
+	echo "GIT ALREADY SETUP"
+else
+	echo "GIT NOT SETUP"
+	git_setup	
+fi
+
+# backup
+git add *
+git 
