@@ -15,6 +15,11 @@ git_setup()
 	echo ""
 }
 
+backup_interval()
+{
+	300
+}
+
 echo "Minecraft Server Autobackup to Github"
 printf "%0.s-" {1..35}
 echo
@@ -29,6 +34,15 @@ else
 	git_setup	
 fi
 
-# backup
-git add *
-git 
+echo "Waiting to backup"
+while true
+do
+	echo "Backing up the server..."
+	# add any changes
+	git add *
+	# make new changes a commit and current time and date as commit message
+	git commit -m date
+	git push origin master
+	sleep backup_interval
+done
+echo "Backing up ended."
