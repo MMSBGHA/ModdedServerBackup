@@ -22,15 +22,15 @@ backup_interval()
 
 echo "Minecraft Server Autobackup to Github"
 printf "%0.s-" {1..35}
-printf "\n\n\n"
+printf "\n\n"
 
 # check for git setup
 echo "Checking for git setup..."
-if [ -d ".git/" ]
+if [ -eq $(git config user.name) "MMSBGHA" ]
 then
-	echo "GIT ALREADY SETUP"
+	echo "GIT REPO ALREADY SETUP"
 else
-	echo "GIT NOT SETUP"
+	echo "GIT REPO NOT SETUP"
 	git_setup	
 fi
 
