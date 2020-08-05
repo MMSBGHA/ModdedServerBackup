@@ -14,11 +14,6 @@ git_setup()
 	echo ""
 }
 
-backup_interval()
-{
-	300
-}
-
 echo "Minecraft Server Autobackup to Github"
 printf "%0.s-" {1..35}
 printf "\n\n"
