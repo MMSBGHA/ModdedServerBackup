@@ -37,7 +37,7 @@ else
 	git_setup	
 fi
 
-echo git config user.name
+echo $(git config user.name)
 echo
 echo "STARTING BACKUP..."
 printf "%0.s-" {1..35}
