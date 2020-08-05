@@ -43,6 +43,6 @@ do
 	git commit -m "`date`"
 	git push origin master > /dev/null 2>&1
 	echo "Server backed up."
-	sleep 300
+	sleep 1h
 done
 echo "Backing up ended."
