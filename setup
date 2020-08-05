@@ -8,3 +8,5 @@ git_init()
 	git init
 	git push https://github.com/MMSBGHA/ModdedServerBackup.git 	
 }
+
+git_init
