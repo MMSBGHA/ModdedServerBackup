@@ -19,7 +19,7 @@ printf "%0.s-" {1..35}
 printf "\n\n"
 
 # check for git setup
-echo "Checking for git setup..."
+echo "Checking for git repo setup..."
 if [[ `git config user.name` = "MMSBGHA" ]]
 then
 	echo "GIT REPO ALREADY SETUP"
