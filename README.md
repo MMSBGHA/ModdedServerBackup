@@ -1,4 +1,4 @@
-## LINUX VERSION
+## WINDOWS VERSION
 
 # SETUP
 1. Clone the repo
