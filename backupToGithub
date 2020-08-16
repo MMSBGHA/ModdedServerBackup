@@ -6,10 +6,10 @@ git_setup()
 	echo "Switching to MMSBGHA github for this repo..."
 	
 	echo "Switched git username to MMSBGHA for this repo"
-	git config user.name "MMSBGHA"
+	#git config user.name "MMSBGHA"
 	echo "Switched git email to MMSBPMA@protonmail.com for this repo"
-	git config user.email MMSBPMA@protonmail.com
-	git config credential.helper store
+	#git config user.email MMSBPMA@protonmail.com
+	#git config credential.helper store
 	git push https://github.com/MMSBGHA/ModdedServerBackup.git
 	echo ""
 }
