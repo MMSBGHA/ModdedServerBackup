@@ -1,5 +1,6 @@
 @ECHO OFF
 
+:: check for backup branch name
 IF "%1"=="" (
 	echo BACKUP FAILED TO START
 	echo error: PROVIDE BRANCH TO PUSH TO
@@ -30,6 +31,7 @@ echo ----------------------
 
 echo Waiting to backup...
 
+:: forever loop
 :whileLoopStart
 if (1 LEQ 1) (
 	echo Backing up the server...
@@ -40,6 +42,7 @@ if (1 LEQ 1) (
 	git push origin %1 > /dev/null 2>&1
 	echo Server backed up.
 	:: 1h = 60min = 3600sec
+	:: timeout for 1hr, don't listen for user input
 	timeout /t 3600 /nobreak
 	goto :whileLoopStart
 
