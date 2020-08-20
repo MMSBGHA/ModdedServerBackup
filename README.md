@@ -1,5 +1,10 @@
 ## WINDOWS VERSION
 
+# NOOB
+If you don't have a github
+usage: ```./backupToGithub.bat BRANCH-NAME NOOB```
+where ```BRANCH-NAME``` is the branch name you are backing up to. Ask to verify that the branch should be backup'ed to.
+
 # SETUP
 1. Clone the repo
 2. add a call to ```backupToGithub``` in server startup

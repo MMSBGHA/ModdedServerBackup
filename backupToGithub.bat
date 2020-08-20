@@ -1,5 +1,11 @@
 @ECHO OFF
 
+IF "%1"=="" (
+	echo BACKUP FAILED TO START
+	echo error: PROVIDE BRANCH TO PUSH TO
+	echo usage: ./backupToGithub.bat BRANCH_NAME [NOOB]
+	goto :END
+)
 
 echo Minecraft Server Autobackup to Github
 echo --------------------------------------
@@ -38,4 +44,5 @@ if (1 LEQ 1) (
 	goto :whileLoopStart
 
 )
+:END
 echo Backing up ended.
