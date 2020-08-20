@@ -6,7 +6,7 @@ echo --------------------------------------
 
 :: check for git setup
 echo Checking for git setup...
-IF (%1 == "NOOB") (
+IF (%2 == "NOOB") (
 	echo GIT REPO NOT SETUP
 	echo Switching to MMSBGHA github for this repo...	
 	echo Switched git username to MMSBGHA for this repo
@@ -31,7 +31,7 @@ if (1 LEQ 1) (
 	git add *
 	:: make new changes a commit and current time and date as commit message
 	git commit -m "`date`"
-	git push origin master > /dev/null 2>&1
+	git push origin %1 > /dev/null 2>&1
 	echo Server backed up.
 	:: 1h = 60min = 3600sec
 	timeout /t 3600 /nobreak
