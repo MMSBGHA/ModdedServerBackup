@@ -25,7 +25,7 @@ echo ----------------------
 echo Waiting to backup...
 
 :whileLoopStart
-if (0 LEQ 1) (
+if (1 LEQ 1) (
 	echo Backing up the server...
 	:: add any changes
 	git add *
@@ -33,7 +33,8 @@ if (0 LEQ 1) (
 	git commit -m "`date`"
 	git push origin master > /dev/null 2>&1
 	echo Server backed up.
-	sleep 1h
+	:: 1h = 60min = 3600sec
+	timeout /t 3600 /nobreak
 	goto :whileLoopStart
 
 )
