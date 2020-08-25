@@ -1,0 +1,27 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "VastInfiniteNet",
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "UUID": "fde4d7a4-49c0-496b-b5f1-283a709dc0c2",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+    ]
+}
