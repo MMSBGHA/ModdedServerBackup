@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "ic2:recipes/ingotiron_recipes": {
+    "criteria": {
+      "has_item_0": "2020-08-25 16:04:35 -0400"
+    },
+    "done": true
+  },
   "computercraft:recipes/generated/turtle_normal/computercraft_advanced_modem": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
@@ -1127,6 +1133,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2020-08-25 16:04:43 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
@@ -1226,6 +1238,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
+    },
+    "done": true
+  },
+  "ic2:recipes/beetroot_seeds_recipes": {
+    "criteria": {
+      "has_item": "2020-08-25 11:46:30 -0400"
     },
     "done": true
   },
@@ -2639,6 +2657,12 @@
     },
     "done": true
   },
+  "ic2:recipes/dustredstone_recipes": {
+    "criteria": {
+      "has_item_0": "2020-08-25 16:04:52 -0400"
+    },
+    "done": true
+  },
   "moreplanets:recipes/illenium_helmet": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
@@ -3132,6 +3156,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2020-08-25 16:04:35 -0400"
+    },
+    "done": true
+  },
   "moreplanets:recipes/infected_prismarine_brick_stairs": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
@@ -3468,6 +3498,12 @@
     },
     "done": true
   },
+  "ic2:recipes/croppotato_recipes": {
+    "criteria": {
+      "has_item_0": "2020-08-25 11:46:23 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
@@ -3531,6 +3567,12 @@
   "biomesoplenty:recipes/decorations/ominous_terrarium": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
+    },
+    "done": true
+  },
+  "ic2:recipes/beetroot_recipes": {
+    "criteria": {
+      "has_item": "2020-08-25 11:46:30 -0400"
     },
     "done": true
   },
@@ -3640,8 +3682,13 @@
     "criteria": {
       "steppe": "2020-08-24 23:41:33 -0400",
       "maple_woods": "2020-08-24 23:16:51 -0400",
+      "orchard": "2020-08-25 11:47:55 -0400",
       "coniferous_forest": "2020-08-25 00:48:23 -0400",
-      "grassland": "2020-08-24 23:18:55 -0400"
+      "eucalyptus_forest": "2020-08-25 15:58:53 -0400",
+      "outback": "2020-08-25 15:56:43 -0400",
+      "grassland": "2020-08-24 23:18:55 -0400",
+      "tundra": "2020-08-25 16:06:32 -0400",
+      "lavender_fields": "2020-08-25 11:48:59 -0400"
     },
     "done": false
   },
@@ -3774,6 +3821,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2020-08-24 23:44:01 -0400",
+      "slime": "2020-08-25 16:10:34 -0400",
       "skeleton": "2020-08-25 00:21:27 -0400",
       "zombie": "2020-08-24 23:21:12 -0400",
       "spider": "2020-08-24 23:55:50 -0400"
@@ -4331,6 +4379,15 @@
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2020-08-25 16:08:21 -0400",
+      "savanna": "2020-08-25 15:56:37 -0400",
+      "extreme_hills": "2020-08-25 15:57:26 -0400",
+      "desert": "2020-08-25 16:07:44 -0400"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/birch_wooden_slab": {
     "criteria": {
@@ -5543,6 +5600,12 @@
   "computercraft:recipes/generated/pocket_normal/computercraft_wireless_modem": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
+    },
+    "done": true
+  },
+  "ic2:recipes/ingotgold_recipes": {
+    "criteria": {
+      "has_item_0": "2020-08-25 16:04:52 -0400"
     },
     "done": true
   },
