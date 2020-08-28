@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2020-08-27 13:13:29 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-08-25 22:00:24 -0400"
@@ -104,6 +110,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2020-08-24 23:24:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-08-27 13:05:03 -0400"
     },
     "done": true
   },
@@ -227,9 +239,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/fir_planks": {
+    "criteria": {
+      "has_log": "2020-08-27 13:07:51 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2020-08-25 22:08:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log2": "2020-08-27 13:25:49 -0400"
     },
     "done": true
   },
@@ -248,6 +272,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2020-08-26 15:21:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2020-08-27 13:41:28 -0400"
     },
     "done": true
   },
@@ -296,6 +326,12 @@
   "biomesoplenty:recipes/transportation/boat_mangrove": {
     "criteria": {
       "entered_water": "2020-08-25 00:27:25 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/sacred_oak_door": {
+    "criteria": {
+      "has_planks": "2020-08-28 12:09:39 -0400"
     },
     "done": true
   },
@@ -399,20 +435,26 @@
       "steppe": "2020-08-25 00:27:50 -0400",
       "fen": "2020-08-26 21:46:12 -0400",
       "overgrown_cliffs": "2020-08-25 22:42:41 -0400",
+      "chaparral": "2020-08-27 13:36:50 -0400",
       "maple_woods": "2020-08-24 23:17:23 -0400",
       "orchard": "2020-08-25 22:06:03 -0400",
       "bog": "2020-08-25 00:26:38 -0400",
       "coniferous_forest": "2020-08-25 00:25:45 -0400",
+      "outback": "2020-08-27 12:48:39 -0400",
       "shield": "2020-08-26 21:44:04 -0400",
       "redwood_forest": "2020-08-25 23:31:40 -0400",
+      "dead_swamp": "2020-08-27 13:32:18 -0400",
+      "pasture": "2020-08-27 13:37:12 -0400",
       "meadow": "2020-08-25 00:26:23 -0400",
       "lush_swamp": "2020-08-25 22:04:25 -0400",
       "grassland": "2020-08-24 23:18:55 -0400",
+      "snowy_coniferous_forest": "2020-08-27 12:59:05 -0400",
       "tundra": "2020-08-26 21:47:03 -0400",
       "origin_island": "2020-08-26 21:47:45 -0400",
       "grove": "2020-08-25 22:21:01 -0400",
       "lavender_fields": "2020-08-25 22:06:57 -0400",
-      "rainforest": "2020-08-26 21:44:52 -0400"
+      "rainforest": "2020-08-26 21:44:52 -0400",
+      "brushland": "2020-08-27 12:54:50 -0400"
     },
     "done": false
   },
@@ -557,7 +599,8 @@
       "cave_spider": "2020-08-26 23:23:01 -0400",
       "witch": "2020-08-26 23:22:51 -0400",
       "spider": "2020-08-24 23:20:36 -0400",
-      "creeper": "2020-08-25 21:54:08 -0400"
+      "creeper": "2020-08-25 21:54:08 -0400",
+      "enderman": "2020-08-27 13:54:51 -0400"
     },
     "done": false
   },
@@ -600,6 +643,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2020-08-25 22:12:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-08-27 13:41:28 -0400"
     },
     "done": true
   },
@@ -648,6 +697,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2020-08-26 20:46:44 -0400"
+    },
+    "done": true
+  },
+  "nuclearcraft:food/smore": {
+    "criteria": {
+      "has_item": "2020-08-27 13:21:54 -0400"
     },
     "done": true
   },
@@ -910,6 +965,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2020-08-27 13:41:28 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2020-08-25 00:29:34 -0400"
@@ -991,6 +1052,12 @@
   "biomesoplenty:biomesoplenty/miners_delight": {
     "criteria": {
       "miners_delight": "2020-08-25 22:36:42 -0400"
+    },
+    "done": true
+  },
+  "ic2:recipes/dark_oak_wood_recipes": {
+    "criteria": {
+      "has_item": "2020-08-27 13:25:49 -0400"
     },
     "done": true
   },
@@ -1102,6 +1169,12 @@
     },
     "done": true
   },
+  "ic2:recipes/ingotsilver_recipes": {
+    "criteria": {
+      "has_item_0": "2020-08-28 10:52:16 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2020-08-24 23:25:41 -0400"
@@ -1174,6 +1247,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2020-08-27 13:51:38 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2020-08-26 15:20:18 -0400"
@@ -1195,6 +1274,12 @@
   "biomesoplenty:recipes/misc/brown_dye_from_flat_mushroom": {
     "criteria": {
       "has_flower": "2020-08-25 00:26:49 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/sacred_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-08-28 12:09:39 -0400"
     },
     "done": true
   },
@@ -1273,6 +1358,12 @@
   "biomesoplenty:recipes/misc/red_dye_from_rafflesia": {
     "criteria": {
       "has_flower": "2020-08-26 21:22:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2020-08-28 12:12:46 -0400"
     },
     "done": true
   },
@@ -1486,9 +1577,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2020-08-27 13:46:54 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-08-26 20:48:05 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/sacred_oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2020-08-28 12:09:39 -0400"
     },
     "done": true
   },
@@ -1525,6 +1628,12 @@
   "biomesoplenty:recipes/transportation/boat_eucalyptus": {
     "criteria": {
       "entered_water": "2020-08-25 00:27:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-08-27 13:05:03 -0400"
     },
     "done": true
   },
@@ -1708,6 +1817,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2020-08-27 13:26:37 -0400"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_foliaath": {
     "criteria": {
       "foliaath": "2020-08-26 16:02:33 -0400"
@@ -1816,15 +1931,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2020-08-27 13:41:28 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-08-24 23:27:01 -0400"
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/sacred_oak_fence": {
+    "criteria": {
+      "has_planks": "2020-08-28 12:09:39 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2020-08-24 23:24:26 -0400"
+    },
+    "done": true
+  },
+  "ic2:recipes/dyelightgray_recipes": {
+    "criteria": {
+      "has_item_0": "2020-08-27 13:39:28 -0400"
     },
     "done": true
   },
@@ -2020,6 +2153,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2020-08-27 13:13:29 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/palm_door": {
     "criteria": {
       "has_planks": "2020-08-25 22:51:14 -0400"
@@ -2062,6 +2201,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2020-08-27 13:46:54 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2020-08-25 22:43:52 -0400"
@@ -2089,6 +2234,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2020-08-25 00:29:34 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/fir_wooden_slab": {
+    "criteria": {
+      "has_planks": "2020-08-27 13:46:54 -0400"
     },
     "done": true
   },
@@ -2152,6 +2303,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2020-08-27 13:26:37 -0400"
+    },
+    "done": true
+  },
   "ic2:recipes/rubber_wood_recipes": {
     "criteria": {
       "has_item": "2020-08-24 23:26:16 -0400"
@@ -2206,6 +2363,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2020-08-28 12:07:52 -0400"
+    },
+    "done": true
+  },
   "immersiveengineering:main/root": {
     "criteria": {
       "hold_manual": "2020-08-25 22:30:31 -0400"
@@ -2245,6 +2408,12 @@
   "ic2:recipes/cropcarrot_recipes": {
     "criteria": {
       "has_item_0": "2020-08-25 00:28:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2020-08-28 11:45:42 -0400"
     },
     "done": true
   },
@@ -2380,6 +2549,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/sacred_oak_stairs": {
+    "criteria": {
+      "has_planks": "2020-08-28 12:09:39 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2020-08-24 23:25:41 -0400"
@@ -2404,9 +2579,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2020-08-27 13:46:54 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2020-08-27 13:41:28 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2020-08-25 00:29:34 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-08-27 13:46:54 -0400"
     },
     "done": true
   },

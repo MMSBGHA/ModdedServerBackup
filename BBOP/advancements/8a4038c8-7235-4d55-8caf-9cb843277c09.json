@@ -815,6 +815,12 @@
     },
     "done": true
   },
+  "nuclearcraft:food/smore": {
+    "criteria": {
+      "has_item": "2020-08-27 23:15:37 -0400"
+    },
+    "done": true
+  },
   "ic2:recipes/cropwheat_recipes": {
     "criteria": {
       "has_item_0": "2020-08-24 23:30:15 -0400"
@@ -1286,6 +1292,12 @@
   "ic2:recipes/beetroot_seeds_recipes": {
     "criteria": {
       "has_item": "2020-08-25 11:46:30 -0400"
+    },
+    "done": true
+  },
+  "ic2:recipes/dyegreen_recipes": {
+    "criteria": {
+      "has_item_0": "2020-08-27 22:59:51 -0400"
     },
     "done": true
   },
@@ -3049,6 +3061,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "craft_hammer": "2020-08-28 13:12:43 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/cyan_dye_from_swampflower": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
@@ -3777,6 +3795,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2020-08-28 13:01:33 -0400",
       "xeric_shrubland": "2020-08-26 19:36:52 -0400",
       "steppe": "2020-08-24 23:41:33 -0400",
       "fen": "2020-08-26 17:16:13 -0400",
@@ -5154,6 +5173,12 @@
     },
     "done": true
   },
+  "ic2:recipes/hopper_recipes": {
+    "criteria": {
+      "has_item": "2020-08-27 12:55:15 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
@@ -5415,6 +5440,12 @@
   "moreplanets:recipes/infected_crafting_table": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2020-08-28 13:23:50 -0400"
     },
     "done": true
   },
