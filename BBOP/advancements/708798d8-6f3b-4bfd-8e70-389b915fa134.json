@@ -527,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2020-09-01 00:46:40 -0400"
+    },
+    "done": true
+  },
   "computercraft:recipes/advanced_monitor": {
     "criteria": {
       "has_normal": "2020-08-26 17:26:52 -0400"
@@ -834,6 +840,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2020-08-26 16:54:02 -0400"
+    },
+    "done": true
+  },
+  "ic2:recipes/melon_seeds_recipes": {
+    "criteria": {
+      "has_item": "2020-09-01 00:46:40 -0400"
     },
     "done": true
   },
@@ -1317,6 +1329,12 @@
     },
     "done": true
   },
+  "nuclearcraft:food/marshmallow": {
+    "criteria": {
+      "has_item": "2020-09-01 00:46:40 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2020-08-26 16:52:50 -0400"
@@ -1614,6 +1632,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2020-08-26 16:52:52 -0400"
+    },
+    "done": true
+  },
+  "ic2:recipes/beetroot_seeds_recipes": {
+    "criteria": {
+      "has_item": "2020-09-01 00:46:40 -0400"
     },
     "done": true
   },

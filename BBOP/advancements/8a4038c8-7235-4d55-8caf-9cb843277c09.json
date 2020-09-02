@@ -923,6 +923,12 @@
     },
     "done": true
   },
+  "ic2:recipes/dustgold_recipes": {
+    "criteria": {
+      "has_item_0": "2020-09-01 18:39:50 -0400"
+    },
+    "done": true
+  },
   "moreplanets:recipes/infected_wood_sword": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
@@ -2353,6 +2359,12 @@
     },
     "done": true
   },
+  "refinedstorage:upgrading_your_grid": {
+    "criteria": {
+      "crafting_grid_in_inventory": "2020-09-01 16:42:33 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
@@ -3434,6 +3446,12 @@
     },
     "done": true
   },
+  "refinedstorage:drives": {
+    "criteria": {
+      "disk_drive_in_inventory": "2020-09-01 16:42:24 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
@@ -3863,6 +3881,12 @@
   "moreplanets:recipes/alien_berry_wood_hoe": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
+    },
+    "done": true
+  },
+  "rftools:specialores": {
+    "criteria": {
+      "find_ores": "2020-09-01 18:57:15 -0400"
     },
     "done": true
   },
@@ -4709,6 +4733,12 @@
     },
     "done": true
   },
+  "nuclearcraft:processors/alloy_furnace": {
+    "criteria": {
+      "has_item": "2020-09-01 15:27:11 -0400"
+    },
+    "done": true
+  },
   "moreplanets:recipes/infected_vein_stone_bricks_stairs": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
@@ -5377,6 +5407,12 @@
     },
     "done": true
   },
+  "refinedstorage:root": {
+    "criteria": {
+      "controller_in_inventory": "2020-09-01 16:42:36 -0400"
+    },
+    "done": true
+  },
   "moreplanets:recipes/green_tinted_glass": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
@@ -5740,6 +5776,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
+    },
+    "done": true
+  },
+  "ic2:recipes/dyelime_recipes": {
+    "criteria": {
+      "has_item_0": "2020-09-01 13:13:11 -0400"
     },
     "done": true
   },
