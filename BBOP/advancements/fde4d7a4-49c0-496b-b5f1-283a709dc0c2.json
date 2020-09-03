@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2020-09-02 15:41:27 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2020-08-24 23:24:23 -0400"
@@ -545,6 +551,7 @@
       "coniferous_forest": "2020-08-25 00:25:45 -0400",
       "outback": "2020-08-27 12:48:39 -0400",
       "shield": "2020-08-26 21:44:04 -0400",
+      "mangrove": "2020-09-02 15:24:14 -0400",
       "redwood_forest": "2020-08-25 23:31:40 -0400",
       "seasonal_forest": "2020-08-29 23:02:53 -0400",
       "dead_swamp": "2020-08-27 13:32:18 -0400",
@@ -690,6 +697,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/tanzanite_block": {
+    "criteria": {
+      "has_at_least_9_gems": "2020-09-02 16:05:18 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-08-25 22:00:24 -0400"
@@ -717,6 +730,12 @@
   "minecraft:recipes/building_blocks/red_nether_brick": {
     "criteria": {
       "has_nether_wart": "2020-08-29 22:17:22 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/topaz_block": {
+    "criteria": {
+      "has_at_least_9_gems": "2020-09-02 16:05:18 -0400"
     },
     "done": true
   },
@@ -883,6 +902,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/tanzanite": {
+    "criteria": {
+      "has_gem_block": "2020-09-02 16:06:02 -0400"
+    },
+    "done": true
+  },
   "ic2:recipes/cropwheat_recipes": {
     "criteria": {
       "has_item_0": "2020-08-25 00:28:40 -0400"
@@ -1012,6 +1037,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2020-08-25 20:10:12 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/mangrove_planks": {
+    "criteria": {
+      "has_log": "2020-09-02 15:24:33 -0400"
     },
     "done": true
   },
@@ -1346,6 +1377,12 @@
     },
     "done": true
   },
+  "ic2:recipes/dyegreen_recipes": {
+    "criteria": {
+      "has_item_0": "2020-09-02 16:20:27 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2020-08-25 21:43:32 -0400"
@@ -1355,6 +1392,12 @@
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2020-08-29 22:16:31 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/jacaranda_planks": {
+    "criteria": {
+      "has_log": "2020-09-02 15:39:53 -0400"
     },
     "done": true
   },
@@ -1593,6 +1636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2020-09-02 14:47:41 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2020-08-25 23:29:04 -0400"
@@ -1632,6 +1681,12 @@
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_red_dye": "2020-08-29 23:42:58 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/ebony_planks": {
+    "criteria": {
+      "has_log": "2020-09-02 15:39:11 -0400"
     },
     "done": true
   },
@@ -1937,6 +1992,12 @@
     },
     "done": true
   },
+  "ic2:recipes/dyeblack_recipes": {
+    "criteria": {
+      "has_item_0": "2020-09-02 16:18:52 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-08-26 20:48:05 -0400"
@@ -2062,6 +2123,12 @@
       "bred_pig": "2020-08-26 15:12:11 -0400"
     },
     "done": false
+  },
+  "biomesoplenty:recipes/misc/topaz": {
+    "criteria": {
+      "has_gem_block": "2020-09-02 16:06:02 -0400"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
@@ -2666,6 +2733,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2020-08-25 23:29:04 -0400"
+    },
+    "done": true
+  },
+  "ic2:recipes/magma_block_recipes": {
+    "criteria": {
+      "has_item": "2020-09-02 13:01:50 -0400"
     },
     "done": true
   },

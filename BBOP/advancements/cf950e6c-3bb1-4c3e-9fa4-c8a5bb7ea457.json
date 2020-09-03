@@ -628,6 +628,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2020-09-03 14:13:06 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2020-08-28 21:56:29 -0400"
@@ -1443,6 +1449,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/sacred_oak_planks": {
+    "criteria": {
+      "has_log": "2020-09-03 00:29:24 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2020-08-29 00:10:29 -0400"
@@ -1531,6 +1543,12 @@
   "ic2:recipes/dyeblue_recipes": {
     "criteria": {
       "has_item_0": "2020-08-31 23:08:44 -0400"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/rocket_workbench": {
+    "criteria": {
+      "rocket_workbench": "2020-09-02 15:40:05 -0400"
     },
     "done": true
   },
@@ -2126,6 +2144,18 @@
   "ic2:recipes/cobblestone_recipes": {
     "criteria": {
       "has_item_0": "2020-08-25 11:38:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2020-09-02 14:19:23 -0400"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/advanced_wafer": {
+    "criteria": {
+      "compressor": "2020-09-02 15:37:13 -0400"
     },
     "done": true
   },

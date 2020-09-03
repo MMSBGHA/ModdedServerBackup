@@ -2281,6 +2281,12 @@
     },
     "done": true
   },
+  "ic2:recipes/dyered_recipes": {
+    "criteria": {
+      "has_item_0": "2020-09-03 09:53:59 -0400"
+    },
+    "done": true
+  },
   "moreplanets:recipes/multalic_crystal_hoe": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
@@ -3572,6 +3578,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2020-09-03 10:46:32 -0400"
+    },
+    "done": true
+  },
   "moreplanets:recipes/cheese_spore_fence": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
@@ -4360,6 +4372,12 @@
     },
     "done": true
   },
+  "ic2:recipes/dyepink_recipes": {
+    "criteria": {
+      "has_item_0": "2020-09-03 09:53:59 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/terrestrial_artifact": {
     "criteria": {
       "peridot": "2020-08-29 15:35:06 -0400",
@@ -5105,6 +5123,12 @@
     },
     "done": true
   },
+  "refinedstorage:binding": {
+    "criteria": {
+      "cutting_tool_in_inventory": "2020-09-03 14:31:48 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-08-24 23:26:02 -0400"
@@ -5269,6 +5293,12 @@
     },
     "done": true
   },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2020-09-02 23:14:09 -0400"
+    },
+    "done": true
+  },
   "nuclearcraft:root": {
     "criteria": {
       "location": "2020-08-24 23:16:51 -0400"
@@ -5278,6 +5308,12 @@
   "ic2:recipes/dyeblue_recipes": {
     "criteria": {
       "has_item_0": "2020-08-29 15:37:30 -0400"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/rocket_workbench": {
+    "criteria": {
+      "rocket_workbench": "2020-09-02 15:42:19 -0400"
     },
     "done": true
   },
