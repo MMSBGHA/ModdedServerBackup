@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "nuclearcraft:fission/neptunium": {
+    "criteria": {
+      "has_item": "2020-09-07 01:59:13 -0400"
+    },
+    "done": true
+  },
   "ic2:recipes/dyelightblue_recipes": {
     "criteria": {
       "has_item_0": "2020-08-26 21:31:16 -0400"
@@ -125,6 +131,12 @@
     },
     "done": true
   },
+  "ic2:recipes/charcoal_recipes": {
+    "criteria": {
+      "has_item": "2020-09-05 15:18:09 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:24:03 -0400"
@@ -152,6 +164,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2020-08-26 20:48:05 -0400"
+    },
+    "done": true
+  },
+  "botania:main/generating_flower": {
+    "criteria": {
+      "code_triggered": "2020-09-03 22:06:12 -0400"
     },
     "done": true
   },
@@ -191,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2020-09-06 17:19:52 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-08-26 20:48:05 -0400"
@@ -224,6 +248,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2020-08-24 23:29:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2020-09-03 23:09:42 -0400"
     },
     "done": true
   },
@@ -341,6 +371,12 @@
     },
     "done": true
   },
+  "nuclearcraft:processors/rock_crusher": {
+    "criteria": {
+      "has_item": "2020-09-05 20:21:17 -0400"
+    },
+    "done": true
+  },
   "rftools:builder": {
     "criteria": {
       "placed_builder": "2020-08-31 21:40:36 -0400"
@@ -374,6 +410,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2020-08-24 23:25:41 -0400"
+    },
+    "done": true
+  },
+  "refinedstorage:storing_fluids": {
+    "criteria": {
+      "fluid_storage_disk_in_inventory": "2020-09-05 17:50:14 -0400"
     },
     "done": true
   },
@@ -431,6 +473,12 @@
     },
     "done": true
   },
+  "refinedstorage:viewing_fluids": {
+    "criteria": {
+      "fluid_grid_in_inventory": "2020-09-05 17:25:42 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2020-08-25 00:08:59 -0400"
@@ -452,6 +500,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2020-08-26 20:48:05 -0400"
+    },
+    "done": true
+  },
+  "nuclearcraft:fission/plutonium": {
+    "criteria": {
+      "has_item": "2020-09-07 01:59:13 -0400"
     },
     "done": true
   },
@@ -538,28 +592,44 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "oasis": "2020-09-04 23:32:12 -0400",
       "woodland": "2020-08-26 21:47:00 -0400",
       "shrubland": "2020-08-26 21:46:56 -0400",
+      "tropical_rainforest": "2020-09-04 16:29:56 -0400",
       "steppe": "2020-08-25 00:27:50 -0400",
       "fen": "2020-08-26 21:46:12 -0400",
+      "alps_foothills": "2020-09-05 00:10:04 -0400",
+      "phantasmagoric_inferno": "2020-09-03 20:43:53 -0400",
+      "mountain": "2020-09-04 23:36:58 -0400",
       "overgrown_cliffs": "2020-08-25 22:42:41 -0400",
+      "quagmire": "2020-09-04 23:40:02 -0400",
       "chaparral": "2020-08-27 13:36:50 -0400",
+      "flower_island": "2020-09-05 00:20:14 -0400",
       "wetland": "2020-08-29 23:36:36 -0400",
+      "mystic_grove": "2020-09-04 16:25:18 -0400",
       "maple_woods": "2020-08-24 23:17:23 -0400",
       "orchard": "2020-08-25 22:06:03 -0400",
+      "land_of_lakes": "2020-09-04 23:39:12 -0400",
       "bog": "2020-08-25 00:26:38 -0400",
       "coniferous_forest": "2020-08-25 00:25:45 -0400",
+      "eucalyptus_forest": "2020-09-04 23:28:38 -0400",
       "outback": "2020-08-27 12:48:39 -0400",
       "shield": "2020-08-26 21:44:04 -0400",
+      "alps": "2020-09-05 00:09:55 -0400",
       "mangrove": "2020-09-02 15:24:14 -0400",
+      "lush_desert": "2020-09-04 23:50:35 -0400",
       "redwood_forest": "2020-08-25 23:31:40 -0400",
+      "boreal_forest": "2020-09-05 00:01:51 -0400",
+      "visceral_heap": "2020-09-03 20:44:20 -0400",
       "seasonal_forest": "2020-08-29 23:02:53 -0400",
+      "temperate_rainforest": "2020-09-05 00:12:46 -0400",
       "dead_swamp": "2020-08-27 13:32:18 -0400",
       "pasture": "2020-08-27 13:37:12 -0400",
       "meadow": "2020-08-25 00:26:23 -0400",
       "lush_swamp": "2020-08-25 22:04:25 -0400",
       "fungi_forest": "2020-08-29 22:18:49 -0400",
       "grassland": "2020-08-24 23:18:55 -0400",
+      "prairie": "2020-09-04 15:50:24 -0400",
       "snowy_coniferous_forest": "2020-08-27 12:59:05 -0400",
       "tundra": "2020-08-26 21:47:03 -0400",
       "undergarden": "2020-08-29 22:16:04 -0400",
@@ -567,7 +637,10 @@
       "grove": "2020-08-25 22:21:01 -0400",
       "lavender_fields": "2020-08-25 22:06:57 -0400",
       "rainforest": "2020-08-26 21:44:52 -0400",
-      "brushland": "2020-08-27 12:54:50 -0400"
+      "sacred_springs": "2020-09-05 00:15:22 -0400",
+      "crag": "2020-09-04 15:48:46 -0400",
+      "brushland": "2020-08-27 12:54:50 -0400",
+      "ominous_woods": "2020-09-04 23:27:43 -0400"
     },
     "done": false
   },
@@ -667,6 +740,12 @@
     },
     "done": true
   },
+  "nuclearcraft:processors/electrolyser": {
+    "criteria": {
+      "has_item": "2020-09-05 20:30:00 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_redwood": {
     "criteria": {
       "entered_water": "2020-08-25 00:27:25 -0400"
@@ -721,6 +800,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2020-09-03 23:03:55 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2020-08-25 00:29:34 -0400"
@@ -742,6 +827,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2020-08-29 14:57:49 -0400",
+      "shulker": "2020-09-03 23:10:01 -0400",
       "wither_skeleton": "2020-08-29 22:21:37 -0400",
       "zombie_villager": "2020-08-25 22:11:59 -0400",
       "magma_cube": "2020-08-29 22:32:28 -0400",
@@ -770,6 +856,12 @@
     },
     "done": true
   },
+  "refinedstorage:storing_externally": {
+    "criteria": {
+      "external_storage_in_inventory": "2020-09-05 18:40:34 -0400"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2020-08-29 14:55:22 -0400"
@@ -785,6 +877,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2020-08-26 00:02:54 -0400"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/speed_upgrade": {
+    "criteria": {
+      "has_item": "2020-09-05 16:41:52 -0400"
     },
     "done": true
   },
@@ -935,6 +1033,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2020-08-29 21:32:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2020-09-03 22:48:06 -0400"
     },
     "done": true
   },
@@ -1410,13 +1514,18 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2020-08-26 21:31:04 -0400",
+      "swampland": "2020-09-04 16:27:36 -0400",
+      "mesa": "2020-09-04 16:21:59 -0400",
       "plains": "2020-08-25 22:20:58 -0400",
       "jungle_hills": "2020-08-25 22:42:26 -0400",
       "jungle_edge": "2020-08-26 00:32:07 -0400",
       "savanna": "2020-08-26 21:29:18 -0400",
+      "taiga": "2020-09-04 23:29:17 -0400",
       "extreme_hills": "2020-08-25 22:17:24 -0400",
+      "roofed_forest": "2020-09-04 23:26:22 -0400",
       "jungle": "2020-08-25 22:42:07 -0400",
-      "river": "2020-08-29 23:06:13 -0400"
+      "river": "2020-08-29 23:06:13 -0400",
+      "desert": "2020-09-04 23:30:52 -0400"
     },
     "done": false
   },
@@ -1429,6 +1538,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2020-08-25 22:02:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2020-09-03 23:09:42 -0400"
     },
     "done": true
   },
@@ -1486,6 +1601,12 @@
     },
     "done": true
   },
+  "nuclearcraft:processors/alloy_furnace": {
+    "criteria": {
+      "has_item": "2020-09-05 16:34:14 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2020-08-25 22:43:52 -0400"
@@ -1528,6 +1649,18 @@
     },
     "done": true
   },
+  "refinedstorage:autocrafting": {
+    "criteria": {
+      "crafter_in_inventory": "2020-09-05 16:31:31 -0400"
+    },
+    "done": true
+  },
+  "botania:main/bauble_wear": {
+    "criteria": {
+      "code_triggered": "2020-09-03 22:37:16 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2020-08-25 22:43:52 -0400"
@@ -1561,6 +1694,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-08-26 20:48:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2020-09-03 23:10:09 -0400"
     },
     "done": true
   },
@@ -1639,6 +1778,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2020-09-02 14:47:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_block": {
+    "criteria": {
+      "has_bone_block": "2020-09-03 20:44:27 -0400"
     },
     "done": true
   },
@@ -1918,9 +2063,33 @@
     },
     "done": true
   },
+  "nuclearcraft:fission/fission_controller": {
+    "criteria": {
+      "has_item": "2020-09-05 20:56:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2020-09-06 17:34:58 -0400"
+    },
+    "done": true
+  },
+  "refinedstorage:upgrading": {
+    "criteria": {
+      "upgrade_in_inventory": "2020-09-05 20:26:12 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/palm_wooden_slab": {
     "criteria": {
       "has_planks": "2020-08-25 22:51:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2020-09-03 21:54:56 -0400"
     },
     "done": true
   },
@@ -1945,6 +2114,12 @@
   "nuclearcraft:processors/infuser": {
     "criteria": {
       "has_item": "2020-09-01 22:06:29 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/red_dye_from_bromeliad": {
+    "criteria": {
+      "has_flower": "2020-09-04 23:32:30 -0400"
     },
     "done": true
   },
@@ -2214,6 +2389,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/black_dye_from_enderlotus": {
+    "criteria": {
+      "has_flower": "2020-09-04 23:27:07 -0400"
+    },
+    "done": true
+  },
   "ic2:recipes/dyered_recipes": {
     "criteria": {
       "has_item_0": "2020-08-29 23:42:58 -0400"
@@ -2277,6 +2458,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2020-08-26 19:06:55 -0400"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/manufactory": {
+    "criteria": {
+      "has_item": "2020-09-05 16:39:12 -0400"
     },
     "done": true
   },
@@ -2400,6 +2587,12 @@
     },
     "done": true
   },
+  "nuclearcraft:processors/melter": {
+    "criteria": {
+      "has_item": "2020-09-05 17:53:26 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-08-24 23:27:01 -0400"
@@ -2421,6 +2614,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2020-08-24 23:24:26 -0400"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/isotope_separator": {
+    "criteria": {
+      "has_item": "2020-09-07 01:45:56 -0400"
     },
     "done": true
   },
@@ -2493,6 +2692,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2020-08-26 19:47:49 -0400"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_village": {
+    "criteria": {
+      "steal_crystal": "2020-09-04 16:33:56 -0400"
     },
     "done": true
   },
@@ -2616,9 +2821,21 @@
     },
     "done": true
   },
+  "botania:main/rune_pickup": {
+    "criteria": {
+      "rune": "2020-09-03 22:31:00 -0400"
+    },
+    "done": true
+  },
   "botania:main/flower_pickup": {
     "criteria": {
       "flower": "2020-08-25 20:10:12 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/ash_block": {
+    "criteria": {
+      "has_item": "2020-09-03 20:44:52 -0400"
     },
     "done": true
   },
@@ -2649,6 +2866,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2020-08-25 00:48:41 -0400"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup": {
+    "criteria": {
+      "pool": "2020-09-03 21:57:05 -0400"
     },
     "done": true
   },
@@ -2772,6 +2995,12 @@
     },
     "done": true
   },
+  "ic2:recipes/redstone_comparator_recipes": {
+    "criteria": {
+      "has_item": "2020-09-05 19:57:40 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_ebony": {
     "criteria": {
       "entered_water": "2020-08-25 00:27:25 -0400"
@@ -2823,6 +3052,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2020-08-27 13:26:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2020-09-03 23:09:28 -0400"
     },
     "done": true
   },
@@ -2880,9 +3115,21 @@
     },
     "done": true
   },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2020-09-03 21:22:52 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
     "criteria": {
       "has_flower": "2020-08-25 22:11:45 -0400"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/fuel_reprocessor": {
+    "criteria": {
+      "has_item": "2020-09-07 01:58:43 -0400"
     },
     "done": true
   },
@@ -2907,6 +3154,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2020-08-28 12:07:52 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/coal_from_ash": {
+    "criteria": {
+      "has_gem_block": "2020-09-03 20:44:52 -0400"
     },
     "done": true
   },
@@ -2970,6 +3223,12 @@
     },
     "done": true
   },
+  "refinedstorage:importing": {
+    "criteria": {
+      "importer_in_inventory": "2020-09-05 16:35:02 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2020-08-25 00:27:25 -0400"
@@ -2985,6 +3244,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2020-08-26 21:40:12 -0400"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/energy_upgrade": {
+    "criteria": {
+      "has_item": "2020-09-05 13:48:46 -0400"
     },
     "done": true
   },
@@ -3021,6 +3286,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2020-08-25 23:44:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2020-09-03 23:09:42 -0400"
     },
     "done": true
   },
@@ -3066,6 +3337,18 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2020-09-03 22:48:06 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/white_sandstone": {
+    "criteria": {
+      "has_sand": "2020-09-04 23:31:03 -0400"
+    },
+    "done": true
+  },
   "ic2:recipes/treesapling_recipes": {
     "criteria": {
       "has_item_1": "2020-08-25 23:19:23 -0400"
@@ -3081,6 +3364,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred_pig": "2020-08-26 15:12:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2020-09-03 18:00:40 -0400"
     },
     "done": true
   },
@@ -3120,6 +3409,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/food/bowl_of_rice": {
+    "criteria": {
+      "has_bowl": "2020-09-03 21:54:56 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/sacred_oak_stairs": {
     "criteria": {
       "has_planks": "2020-08-28 12:09:39 -0400"
@@ -3156,6 +3451,12 @@
     },
     "done": true
   },
+  "nuclearcraft:processors/ingot_former": {
+    "criteria": {
+      "has_item": "2020-09-05 18:06:39 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2020-08-27 13:41:28 -0400"
@@ -3177,6 +3478,12 @@
   "immersiveengineering:main/craft_skyhook": {
     "criteria": {
       "craft_hammer": "2020-08-26 16:32:00 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/gray_dye_from_ash": {
+    "criteria": {
+      "has_flower": "2020-09-03 20:44:52 -0400"
     },
     "done": true
   },
