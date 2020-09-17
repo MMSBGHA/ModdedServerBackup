@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "nuclearcraft:devices/lithium_ion_battery_basic": {
+    "criteria": {
+      "has_item": "2020-09-16 21:54:03 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2020-08-25 00:29:34 -0400"
@@ -122,6 +128,12 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2020-08-31 19:01:49 -0400"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/pressurizer": {
+    "criteria": {
+      "has_item": "2020-09-08 23:00:42 -0400"
     },
     "done": true
   },
@@ -164,6 +176,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2020-08-26 20:48:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2020-09-09 13:41:44 -0400"
     },
     "done": true
   },
@@ -353,6 +371,12 @@
     },
     "done": true
   },
+  "nuclearcraft:processors/dissolver": {
+    "criteria": {
+      "has_item": "2020-09-09 21:56:31 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-08-25 00:29:34 -0400"
@@ -416,6 +440,12 @@
   "refinedstorage:storing_fluids": {
     "criteria": {
       "fluid_storage_disk_in_inventory": "2020-09-05 17:50:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2020-09-09 13:41:44 -0400"
     },
     "done": true
   },
@@ -621,6 +651,7 @@
       "redwood_forest": "2020-08-25 23:31:40 -0400",
       "boreal_forest": "2020-09-05 00:01:51 -0400",
       "visceral_heap": "2020-09-03 20:44:20 -0400",
+      "cherry_blossom_grove": "2020-09-09 15:14:40 -0400",
       "seasonal_forest": "2020-08-29 23:02:53 -0400",
       "temperate_rainforest": "2020-09-05 00:12:46 -0400",
       "dead_swamp": "2020-08-27 13:32:18 -0400",
@@ -812,6 +843,12 @@
     },
     "done": true
   },
+  "nuclearcraft:processors/decay_hastener": {
+    "criteria": {
+      "has_item": "2020-09-09 22:10:09 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick": {
     "criteria": {
       "has_nether_wart": "2020-08-29 22:17:22 -0400"
@@ -949,6 +986,12 @@
   "ic2:recipes/spruce_wood_recipes": {
     "criteria": {
       "has_item": "2020-08-31 21:26:16 -0400"
+    },
+    "done": true
+  },
+  "refinedstorage:exporting": {
+    "criteria": {
+      "exporter_in_inventory": "2020-09-12 16:23:36 -0400"
     },
     "done": true
   },
@@ -1515,6 +1558,8 @@
     "criteria": {
       "forest": "2020-08-26 21:31:04 -0400",
       "swampland": "2020-09-04 16:27:36 -0400",
+      "extreme_hills_with_trees": "2020-09-08 21:52:50 -0400",
+      "desert_hills": "2020-09-08 21:53:45 -0400",
       "mesa": "2020-09-04 16:21:59 -0400",
       "plains": "2020-08-25 22:20:58 -0400",
       "jungle_hills": "2020-08-25 22:42:26 -0400",
@@ -1727,6 +1772,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon_block": {
+    "criteria": {
+      "has_melon": "2020-09-09 13:41:44 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/sacred_oak_fence_gate": {
     "criteria": {
       "has_planks": "2020-08-28 12:09:39 -0400"
@@ -1760,6 +1811,12 @@
   "ic2:recipes/blocklapis_recipes": {
     "criteria": {
       "has_item_0": "2020-08-31 23:10:20 -0400"
+    },
+    "done": true
+  },
+  "refinedstorage:covering": {
+    "criteria": {
+      "cover_in_inventory": "2020-09-12 16:34:22 -0400"
     },
     "done": true
   },
@@ -2263,6 +2320,12 @@
     },
     "done": true
   },
+  "ic2:recipes/hopper_recipes": {
+    "criteria": {
+      "has_item": "2020-09-10 17:04:03 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2020-08-24 23:23:25 -0400"
@@ -2302,6 +2365,12 @@
   "biomesoplenty:recipes/misc/topaz": {
     "criteria": {
       "has_gem_block": "2020-09-02 16:06:02 -0400"
+    },
+    "done": true
+  },
+  "nuclearcraft:fusion/fusion_core": {
+    "criteria": {
+      "has_item": "2020-09-09 22:23:47 -0400"
     },
     "done": true
   },
@@ -2485,6 +2554,12 @@
     },
     "done": true
   },
+  "nuclearcraft:processors/salt_mixer": {
+    "criteria": {
+      "has_item": "2020-09-12 23:52:04 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-08-24 23:27:01 -0400"
@@ -2542,6 +2617,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2020-08-25 00:29:34 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/filled_honeycomb_block": {
+    "criteria": {
+      "has_item": "2020-09-12 21:16:32 -0400"
     },
     "done": true
   },
@@ -2719,6 +2800,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/place_floodlight": {
+    "criteria": {
+      "place_floodlight": "2020-09-10 16:40:47 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stonebrick": "2020-08-25 00:07:13 -0400"
@@ -2779,6 +2866,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/malachite": {
+    "criteria": {
+      "has_gem_block": "2020-09-12 20:45:21 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2020-08-25 00:29:34 -0400"
@@ -2833,6 +2926,12 @@
     },
     "done": true
   },
+  "nuclearcraft:processors/chemical_reactor": {
+    "criteria": {
+      "has_item": "2020-09-08 23:00:42 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/ash_block": {
     "criteria": {
       "has_item": "2020-09-03 20:44:52 -0400"
@@ -2866,6 +2965,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2020-08-25 00:48:41 -0400"
+    },
+    "done": true
+  },
+  "refinedstorage:monitoring": {
+    "criteria": {
+      "crafting_monitor_in_inventory": "2020-09-12 15:16:35 -0400"
     },
     "done": true
   },
@@ -3007,6 +3112,18 @@
     },
     "done": true
   },
+  "moreplanets:recipes/empty_capsule": {
+    "criteria": {
+      "has_item": "2020-09-08 21:44:54 -0400"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/extractor": {
+    "criteria": {
+      "has_item": "2020-09-12 23:54:46 -0400"
+    },
+    "done": true
+  },
   "immersiveengineering:main/craft_revolver": {
     "criteria": {
       "craft_hammer": "2020-08-26 15:43:43 -0400"
@@ -3016,6 +3133,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2020-08-24 23:24:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2020-09-10 18:00:38 -0400"
     },
     "done": true
   },
@@ -3127,9 +3250,21 @@
     },
     "done": true
   },
+  "refinedstorage:managing_patterns": {
+    "criteria": {
+      "crafter_manager_in_inventory": "2020-09-12 15:15:44 -0400"
+    },
+    "done": true
+  },
   "nuclearcraft:processors/fuel_reprocessor": {
     "criteria": {
       "has_item": "2020-09-07 01:58:43 -0400"
+    },
+    "done": true
+  },
+  "nuclearcraft:fusion/active_cooler": {
+    "criteria": {
+      "has_item": "2020-09-12 16:18:16 -0400"
     },
     "done": true
   },
@@ -3229,6 +3364,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/honeycomb_block": {
+    "criteria": {
+      "has_item": "2020-09-12 21:16:00 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2020-08-25 00:27:25 -0400"
@@ -3256,6 +3397,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2020-08-25 22:43:52 -0400"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/crystallizer": {
+    "criteria": {
+      "has_item": "2020-09-09 21:49:28 -0400"
     },
     "done": true
   },
@@ -3316,6 +3463,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2020-08-24 23:26:20 -0400"
+    },
+    "done": true
+  },
+  "rftools:clearvision": {
+    "criteria": {
+      "placed_screen": "2020-09-13 13:55:42 -0400"
     },
     "done": true
   },
@@ -3448,6 +3601,12 @@
   "biomesoplenty:recipes/buildingblocks/fir_stairs": {
     "criteria": {
       "has_planks": "2020-08-27 13:46:54 -0400"
+    },
+    "done": true
+  },
+  "rftools:elevator": {
+    "criteria": {
+      "placed_elevator": "2020-09-13 13:44:12 -0400"
     },
     "done": true
   },

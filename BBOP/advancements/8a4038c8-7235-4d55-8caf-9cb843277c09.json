@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "refinedstorage:wireless_items": {
+    "criteria": {
+      "wireless_grid_in_inventory": "2020-09-11 00:05:51 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
@@ -182,6 +188,12 @@
   "biomesoplenty:recipes/transportation/boat_ethereal": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
+    },
+    "done": true
+  },
+  "ic2:recipes/mfe_recipes": {
+    "criteria": {
+      "has_item": "2020-09-16 23:05:50 -0400"
     },
     "done": true
   },
@@ -260,6 +272,12 @@
   "biomesoplenty:recipes/buildingblocks/mud_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
+    },
+    "done": true
+  },
+  "rftools:builder": {
+    "criteria": {
+      "placed_builder": "2020-09-10 00:16:22 -0400"
     },
     "done": true
   },
@@ -720,6 +738,12 @@
     },
     "done": true
   },
+  "ic2:recipes/glass_fibre_cable_recipes": {
+    "criteria": {
+      "has_item": "2020-09-16 23:01:37 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
@@ -867,6 +891,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
+    },
+    "done": true
+  },
+  "ic2:recipes/transformer_upgrade_recipes": {
+    "criteria": {
+      "has_item": "2020-09-16 22:58:57 -0400"
     },
     "done": true
   },
@@ -1398,6 +1428,12 @@
     },
     "done": true
   },
+  "ic2:recipes/tin_block_recipes": {
+    "criteria": {
+      "has_item": "2020-09-10 00:20:16 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
@@ -1641,6 +1677,12 @@
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
+    },
+    "done": true
+  },
+  "refinedstorage:wireless": {
+    "criteria": {
+      "wireless_transmitter_in_inventory": "2020-09-11 00:06:47 -0400"
     },
     "done": true
   },
@@ -1995,6 +2037,12 @@
   "biomesoplenty:recipes/buildingblocks/magic_stairs": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
+    },
+    "done": true
+  },
+  "refinedstorage:upgrading": {
+    "criteria": {
+      "upgrade_in_inventory": "2020-09-09 13:24:49 -0400"
     },
     "done": true
   },
@@ -2900,6 +2948,12 @@
     },
     "done": true
   },
+  "ic2:recipes/generator_recipes": {
+    "criteria": {
+      "has_item": "2020-09-16 23:08:36 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow_layer": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
@@ -3123,6 +3177,12 @@
     },
     "done": true
   },
+  "ic2:recipes/canning_machine_recipes": {
+    "criteria": {
+      "has_item": "2020-09-16 22:49:34 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2020-08-24 23:30:15 -0400"
@@ -3228,6 +3288,12 @@
   "biomesoplenty:recipes/buildingblocks/cherry_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
+    },
+    "done": true
+  },
+  "ic2:recipes/orange_dye_recipes": {
+    "criteria": {
+      "has_item": "2020-09-11 23:50:09 -0400"
     },
     "done": true
   },
@@ -3939,6 +4005,12 @@
     },
     "done": true
   },
+  "ic2:recipes/uranium_block_recipes": {
+    "criteria": {
+      "has_item": "2020-09-13 11:32:25 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
@@ -4050,6 +4122,12 @@
   "ic2:recipes/advanced_circuit_recipes": {
     "criteria": {
       "has_item": "2020-09-03 23:21:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2020-09-12 00:10:17 -0400"
     },
     "done": true
   },
@@ -4169,6 +4247,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2020-09-12 20:56:58 -0400",
       "wither_skeleton": "2020-08-29 00:21:22 -0400",
       "zombie_villager": "2020-08-24 23:44:01 -0400",
       "magma_cube": "2020-08-31 23:40:48 -0400",
@@ -4179,6 +4258,7 @@
       "cave_spider": "2020-08-29 23:12:31 -0400",
       "witch": "2020-08-26 20:29:03 -0400",
       "spider": "2020-08-24 23:55:50 -0400",
+      "ghast": "2020-09-12 00:10:17 -0400",
       "creeper": "2020-08-25 21:50:33 -0400"
     },
     "done": false
@@ -4198,6 +4278,12 @@
   "biomesoplenty:recipes/misc/cyan_dye_from_glowflower": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
+    },
+    "done": true
+  },
+  "refinedstorage:storing_externally": {
+    "criteria": {
+      "external_storage_in_inventory": "2020-09-12 23:31:24 -0400"
     },
     "done": true
   },
@@ -4438,6 +4524,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
+    },
+    "done": true
+  },
+  "ic2:recipes/dusttin_recipes": {
+    "criteria": {
+      "has_item_0": "2020-09-10 23:37:46 -0400"
     },
     "done": true
   },
@@ -5072,6 +5164,12 @@
     },
     "done": true
   },
+  "ic2:basic/buildcanner": {
+    "criteria": {
+      "has_item": "2020-09-16 22:49:34 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
@@ -5135,6 +5233,12 @@
   "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
+    },
+    "done": true
+  },
+  "ic2:recipes/lv-transformer_recipes": {
+    "criteria": {
+      "has_item": "2020-09-16 23:02:44 -0400"
     },
     "done": true
   },
@@ -5363,6 +5467,12 @@
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2020-09-07 23:19:35 -0400"
+    },
+    "done": true
+  },
+  "ic2:basic/buildgenerator": {
+    "criteria": {
+      "has_item": "2020-09-16 23:08:36 -0400"
     },
     "done": true
   },
@@ -5896,6 +6006,12 @@
     },
     "done": true
   },
+  "refinedstorage:manipulating_disks": {
+    "criteria": {
+      "disk_manipulator_in_inventory": "2020-09-09 13:19:22 -0400"
+    },
+    "done": true
+  },
   "moreplanets:recipes/nibiru_cobblestone_wall": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
@@ -6121,6 +6237,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
+    },
+    "done": true
+  },
+  "ic2:basic/buildmfe": {
+    "criteria": {
+      "has_item": "2020-09-16 23:05:50 -0400"
     },
     "done": true
   },
@@ -6646,6 +6768,12 @@
     },
     "done": true
   },
+  "ic2:recipes/machine_block_recipes": {
+    "criteria": {
+      "has_item": "2020-09-16 22:50:10 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
@@ -6679,6 +6807,12 @@
   "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
       "has_the_recipe": "2020-08-24 23:40:11 -0400"
+    },
+    "done": true
+  },
+  "ic2:recipes/dyeorange_recipes": {
+    "criteria": {
+      "has_item_0": "2020-09-11 23:50:09 -0400"
     },
     "done": true
   },
